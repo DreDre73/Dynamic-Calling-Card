@@ -1,0 +1,53 @@
+---
+title: Dynamic Calling Card Project
+author: Andre Smith III
+date: 3/31/24
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+---
+
+* [LINK to GITHUB](https://github.com/DreDre73/Dynamic-Calling-Card)
+
+# Introduction
+
+- In this dynamic calling card project, I aimed to create a modern and interactive representation of my personal and professional identity. Unlike traditional static business cards, a dynamic calling card allows for more engagement and interactivity, providing a glimpse into various aspects of my skills, interests, and personality. This is meant for future employers along with friends that want to see something that I've created.
+
+
+# Figma mockup
+
+- Users can navigate between slides using the previous and next buttons, allowing them to move to the adjacent slides relative to their current position. For users seeking to access a specific panel directly, they can click on the desired slide to instantly jump to that location. Additionally, arrows located in the top right corner of the screen facilitate sequential movement between panels, allowing users to advance or regress by one panel at a time.
+
+```{=html}
+<center>
+<iframe
+src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrF69Mzavoj4rxLUHaLgrtC%2FWire-Frame%3Ftype%3Ddesign%26t%3DvvFLYhHIObryaJ9X-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26node-id%3D4-3%26starting-point-node-id%3D4%253A3%26mode%3Ddesign"
+style="border: 1px solid rgba(0, 0, 0, 0.1);"
+width="800" height="450"  
+data-external="1"
+allowfullscreen
+></iframe>
+</center>
+```
+
+# Implementation
+
+Below is my implementation of the dynamic calling card made in P5.js.
+
+```{=html}
+<center>
+<iframe
+src="https://editor.p5js.org/DreDre73/full/CkiiytwMD"
+style="border: 1px solid rgba(0, 0, 0, 0.1);"
+width="800"
+height="450"  
+data-external="1"
+allowfullscreen="allowfullscreen"
+webkitallowfullscreen="webkitallowfullscreen"
+mozallowfullscreen="mozallowfullscreen"
+allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *"
+></iframe>
+</center>
+```
+
